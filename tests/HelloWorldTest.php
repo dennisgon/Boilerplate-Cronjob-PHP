@@ -1,7 +1,7 @@
 <?php
 
 class HelloWorldTest extends \PHPUnit\Framework\TestCase {
-	
+	//test//
 	private $number;
 
 	protected function setUp()
